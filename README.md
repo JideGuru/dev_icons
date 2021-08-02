@@ -32,6 +32,5 @@ class MyAwesomeWidget extends StatelessWidget {
 View the flutter app in the `example` directory
 
 ## Screenshot
-
-![screenshot-1](screenshots/1.png)
-![screenshot-2](screenshots/2.png)
+<img src="https://github.com/JideGuru/dev_icons/raw/master/screenshots/1.png" width="400">
+<img src="https://github.com/JideGuru/dev_icons/raw/master/screenshots/2.png" width="400">
